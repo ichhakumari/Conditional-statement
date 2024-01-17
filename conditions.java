@@ -10,17 +10,17 @@ public class conditions {
 
         switch (button) {
             case 1:
-                System.out.println("namaste");
+                System.out.println("Namaste");
                 break;
 
             case 2:
-                System.out.println("hello");
+                System.out.println("Hello");
                 break;
             case 3:
-                System.out.println("Sa-rang-hae");
+                System.out.println("Radhe-Radhe");
                 break;
             default:
-                System.out.println("envalid");
+                System.out.println("Invalid");
                 break;
         }
 
