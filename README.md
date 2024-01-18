@@ -6,8 +6,9 @@ Conditional statements :
 2. Switch case statements
    <br>
 Greeting buttons using switch case in java programming language
-<br>
+<hr>
 Loops:
+<br>
 1. For loop
 2. While loop
 3. Do-while loop
