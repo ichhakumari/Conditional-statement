@@ -9,7 +9,7 @@ Greeting buttons using switch case in java programming language
 <hr>
 Loops:
 <br>
-1. For loop
-2. While loop
+1. For loop<br>
+2. While loop<br>
 3. Do-while loop
    
