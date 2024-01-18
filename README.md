@@ -4,7 +4,9 @@ Author  - Ichha Kumari
 Conditional statements :
 1. If-else statements
 2. Switch case statements
+   <br>
 Greeting buttons using switch case in java programming language
+<br>
 Loops:
 1. For loop
 2. While loop
